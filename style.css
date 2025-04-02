@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../IMGS/fundo-abstrato-azul-aco-claro_53876-101914.avif);
+    background-image: url(fundo-abstrato-azul-aco-claro_53876-101914.avif);
     background-size: cover;
     background-position: center;
 }
